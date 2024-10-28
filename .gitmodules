@@ -1,0 +1,9 @@
+[submodule "Server-Client--UDP-Protocol"]
+	path = Server-Client--UDP-Protocol
+	url = https://github.com/ArielElb/Server-Client--UDP-Protocol
+[submodule "TCP-Server"]
+	path = TCP-Server
+	url = https://github.com/ArielElb/TCP-Server
+[submodule "Apache-DNS-Proxy-Servers"]
+	path = Apache-DNS-Proxy-Servers
+	url = https://github.com/ArielElb/Apache-DNS-Proxy-Servers
